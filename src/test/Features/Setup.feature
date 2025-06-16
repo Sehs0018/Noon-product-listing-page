@@ -20,4 +20,4 @@ Feature: Call Chrome session
 
     Examples:
       | Email           | password          |
-      | hezzat@noon.com | HassanP@ssw0rd018 |
+      |  |  |
