@@ -20,4 +20,4 @@ Feature: Call Chrome session
 
     Examples:
       | Email           | password          |
-      |  |  |
+      | testemail  | testpswd |
